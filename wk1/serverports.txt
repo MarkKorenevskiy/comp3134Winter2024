@@ -1,0 +1,32 @@
+Server Port:
+A server port is a logical construct that
+represents an endpoint for communication in
+a network. In networking, a port is a software-based
+mechanism that allows multiple processes or services
+to share a single physical connection to the network.
+It is identified by a numerical value known as the port number.
+
+Server Port Range:
+The server port range refers to the set of port
+numbers available for use on a server. In the context
+of TCP/IP networking, valid port numbers range from
+0 to 65535. Ports up to 1023 are well-known ports,
+often reserved for common services, while ports from
+1024 to 49151 are registered ports, and ports from
+49152 to 65535 are dynamic or private ports.
+
+Number of Bits:
+16 bits. The number can range from 0 to 65535
+
+10 Common Server Ports:
+HTTP (Hypertext Transfer Protocol): Port 80
+HTTPS (HTTP Secure): Port 443
+FTP (File Transfer Protocol): Port 21
+SSH (Secure Shell): Port 22
+SMTP (Simple Mail Transfer Protocol): Port 25
+DNS (Domain Name System): Port 53
+Telnet: Port 23
+POP3 (Post Office Protocol version 3): Port 110
+IMAP (Internet Message Access Protocol): Port 143
+SQL Database Access (MySQL, PostgreSQL): Port 3306 (MySQL)
+and Port 5432 (PostgreSQL)
