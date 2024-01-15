@@ -1,0 +1,14 @@
+markkorenevskiy@Air-Mark ~ % ping 159.203.26.126
+PING 159.203.26.126 (159.203.26.126): 56 data bytes
+64 bytes from 159.203.26.126: icmp_seq=0 ttl=55 time=15.673 ms
+64 bytes from 159.203.26.126: icmp_seq=1 ttl=55 time=28.656 ms
+64 bytes from 159.203.26.126: icmp_seq=2 ttl=55 time=12.832 ms
+64 bytes from 159.203.26.126: icmp_seq=3 ttl=55 time=10.797 ms
+64 bytes from 159.203.26.126: icmp_seq=4 ttl=55 time=11.046 ms
+64 bytes from 159.203.26.126: icmp_seq=5 ttl=55 time=10.289 ms
+64 bytes from 159.203.26.126: icmp_seq=6 ttl=55 time=12.824 ms
+64 bytes from 159.203.26.126: icmp_seq=7 ttl=55 time=11.991 ms
+^C
+--- 159.203.26.126 ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 10.289/14.263/28.656/5.663 ms

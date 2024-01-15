@@ -1,0 +1,8 @@
+root@lamp-droplet-korenevskiy:~# traceroute apple.ca
+traceroute to apple.ca (17.253.144.10), 30 hops max, 60 byte packets
+ 1  162.243.190.8 (162.243.190.8)  1.042 ms 162.243.190.9 (162.243.190.9)  1.005 ms 162.243.190.8 (162.243.190.8)  1.085 ms
+ 2  143.198.252.198 (143.198.252.198)  1.302 ms 143.198.252.194 (143.198.252.194)  1.186 ms  1.132 ms
+ 3  toro-b5-link.ip.twelve99.net (62.115.55.29)  1.468 ms  1.497 ms toro-b5-link.ip.twelve99.net (62.115.9.209)  1.620 ms
+ 4  toro-b2-link.ip.twelve99.net (62.115.117.229)  1.509 ms  1.369 ms  1.392 ms
+ 5  apple-ic-375876.ip.twelve99-cust.net (213.248.78.193)  1.130 ms apple-ic-375877.ip.twelve99-cust.net (213.248.78.197)  1.118 ms  1.117 ms
+ 6  apple.com.cn (17.253.144.10)  1.419 ms !X  1.237 ms !X *

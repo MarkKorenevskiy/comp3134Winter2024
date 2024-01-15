@@ -1,0 +1,275 @@
+############################################################
+Domain Name: google.ca
+Registry Domain ID: D73081-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2023-04-28T04:00:42Z
+Creation Date: 2000-10-04T02:21:23Z
+Registry Expiry Date: 2024-04-28T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 106113561-CIRA
+Registrant Name: Google Canada Corporation
+Registrant Organization: Google Canada Corporation
+Registrant Street: 12-111 Richmond St. W
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5H2G4
+Registrant Country: CA
+Registrant Phone: +1.4162146034
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@google.com
+Registry Admin ID: 105817359-CIRA
+Admin Name: Rajiv Prasad
+Admin Organization: Google Canada Corporation
+Admin Street: 12-111 Richmond St W
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5H2G4
+Admin Country: CA
+Admin Phone: +1.4162146034
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@google.com
+Registry Tech ID: 105817359-CIRA
+Tech Name: Rajiv Prasad
+Tech Organization: Google Canada Corporation
+Tech Street: 12-111 Richmond St W
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5H2G4
+Tech Country: CA
+Tech Phone: +1.4162146034
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@google.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+############################################################
+domain:        YANDEX.RU
+nserver:       ns1.yandex.ru. 213.180.193.1, 2a02:6b8::1
+nserver:       ns2.yandex.ru. 93.158.134.1, 2a02:6b8:0:1::1
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           YANDEX, LLC.
+taxpayer-id:   7736207543
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-09-23T09:45:07Z
+paid-till:     2024-09-30T21:00:00Z
+free-date:     2024-11-01
+source:        TCI
+############################################################
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2023-10-21T15:02:49Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2024-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: email@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: Omid Fekri
+Registrant Organization: George Brown College
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Omid Fekri
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+############################################################
+Domain Name: apple.ca
+Registry Domain ID: D14928-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: https://help.opensrs.com/hc/en-us
+Updated Date: 2022-12-17T12:22:31Z
+Creation Date: 2000-10-19T18:25:39Z
+Registry Expiry Date: 2024-05-16T04:00:00Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 107795844-CIRA
+Registrant Name: Domain Administrator
+Registrant Organization: Apple Canada Inc.
+Registrant Street: 120 Bremner Boulevard, Suite 1600
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5J0A8
+Registrant Country: CA
+Registrant Phone: +1.4089961010
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@apple.com
+Registry Admin ID: 107795845-CIRA
+Admin Name: Domain Administrator
+Admin Organization: Apple Canada Inc.
+Admin Street: 120 Bremner Boulevard, Suite 1600
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5J0A8
+Admin Country: CA
+Admin Phone: +1.4089961010
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@apple.com
+Registry Tech ID: 107795749-CIRA
+Tech Name: Technical Manager
+Tech Organization: Com Laude
+Tech Street: 28-30 Little Russell Street
+Tech City: London
+Tech State/Province: London
+Tech Postal Code: WC1A2HN
+Tech Country: GB
+Tech Phone: +44.2074218250
+Tech Phone Ext:
+Tech Fax: +44.8700118187
+Tech Fax Ext:
+Tech Email: email@comlaude.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a.ns.apple.com
+Name Server: b.ns.apple.com
+Name Server: c.ns.apple.com
+Name Server: d.ns.apple.com
+############################################################
+Domain Name: VK.COM
+Registry Domain ID: 3206186_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: http://www.nic.ru
+Creation Date: 1997-06-24T04:00:00Z
+Registrar Registration Expiration Date: 2024-06-22T21:00:00Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: email@nic.ru
+Registrar Abuse Contact Phone: +7.4959944601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Privacy protection service - whoisproxy.ru
+Registrant Organization: Privacy protection service - whoisproxy.ru
+Registrant Street: PO box 99, whoisproxy.ru
+Registrant City: Moscow
+Registrant State/Province: Moscow
+Registrant Postal Code: 123308
+Registrant Country: RU
+Registrant Phone: +7.4957856536
+Registrant Phone Ext:
+Registrant Email: email@whoisproxy.ru
+Registry Admin ID:
+Admin Name: Privacy protection service - whoisproxy.ru
+Admin Organization: Privacy protection service - whoisproxy.ru
+Admin Street: PO box 99, whoisproxy.ru
+Admin City: Moscow
+Admin State/Province: Moscow
+Admin Postal Code: 123308
+Admin Country: RU
+Admin Phone: +7.4957856536
+Admin Phone Ext:
+Admin Email: email@whoisproxy.ru
+Registry Tech ID:
+Tech Name: Privacy protection service - whoisproxy.ru
+Tech Organization: Privacy protection service - whoisproxy.ru
+Tech Street: PO box 99, whoisproxy.ru
+Tech City: Moscow
+Tech State/Province: Moscow
+Tech Postal Code: 123308
+Tech Country: RU
+Tech Phone: +7.4957856536
+Tech Phone Ext:
+Tech Email: email@whoisproxy.ru
+Name Server: ns1.vkontakte.ru
+Name Server: ns2.vkontakte.ru
+Name Server: ns3.vkontakte.ru
+Name Server: ns4.vkontakte.ru

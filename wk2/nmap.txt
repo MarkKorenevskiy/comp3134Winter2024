@@ -1,0 +1,55 @@
+############################################################
+root@lamp-droplet-korenevskiy:~# nmap apple.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-15 16:54 UTC
+Nmap scan report for apple.ca (17.253.144.10)
+Host is up (0.00091s latency).
+rDNS record for 17.253.144.10: seminars.apple.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 5.90 seconds
+############################################################
+root@lamp-droplet-korenevskiy:~# nmap -p 21 georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-15 16:56 UTC
+Nmap scan report for georgebrown.ca (99.79.139.11)
+Host is up (0.0086s latency).
+rDNS record for 99.79.139.11: ec2-99-79-139-11.ca-central-1.compute.amazonaws.com
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.25 seconds
+############################################################
+root@lamp-droplet-korenevskiy:~# nmap -p 1-10 microsoft.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-15 16:57 UTC
+Nmap scan report for microsoft.com (20.70.246.20)
+Host is up (0.19s latency).
+Other addresses for microsoft.com (not scanned): 20.76.201.171 20.112.250.133 20.231.239.246 20.236.44.162 2603:1010:3:3::5b 2603:1030:b:3::152 2603:1020:201:10::10f 2603:1030:20e:3::23c 2603:1030:c02:8::14
+
+PORT   STATE    SERVICE
+1/tcp  filtered tcpmux
+2/tcp  filtered compressnet
+3/tcp  filtered compressnet
+4/tcp  filtered unknown
+5/tcp  filtered rje
+6/tcp  filtered unknown
+7/tcp  filtered echo
+8/tcp  filtered unknown
+9/tcp  filtered discard
+10/tcp filtered unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 3.40 seconds
+############################################################
+root@lamp-droplet-korenevskiy:~# nmap -F yandex.ru
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-15 16:58 UTC
+Nmap scan report for yandex.ru (5.255.255.77)
+Host is up (0.14s latency).
+Other addresses for yandex.ru (not scanned): 77.88.55.88 77.88.55.60 5.255.255.70 2a02:6b8:a::a
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.31 seconds

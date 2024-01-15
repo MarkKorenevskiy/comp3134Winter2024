@@ -1,0 +1,28 @@
+root@lamp-droplet-korenevskiy:~# ping 20.112.250.133
+PING 20.112.250.133 (20.112.250.133) 56(84) bytes of data.
+64 bytes from 20.112.250.133: icmp_seq=1 ttl=114 time=20.5 ms
+64 bytes from 20.112.250.133: icmp_seq=2 ttl=114 time=19.7 ms
+64 bytes from 20.112.250.133: icmp_seq=3 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=4 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=5 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=6 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=7 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=8 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=9 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=10 ttl=114 time=19.7 ms
+64 bytes from 20.112.250.133: icmp_seq=11 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=12 ttl=114 time=19.9 ms
+64 bytes from 20.112.250.133: icmp_seq=13 ttl=114 time=19.9 ms
+64 bytes from 20.112.250.133: icmp_seq=14 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=15 ttl=114 time=20.1 ms
+64 bytes from 20.112.250.133: icmp_seq=16 ttl=114 time=19.9 ms
+64 bytes from 20.112.250.133: icmp_seq=17 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=18 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=19 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=20 ttl=114 time=19.8 ms
+64 bytes from 20.112.250.133: icmp_seq=21 ttl=114 time=19.7 ms
+64 bytes from 20.112.250.133: icmp_seq=22 ttl=114 time=19.8 ms
+^C
+--- 20.112.250.133 ping statistics ---
+22 packets transmitted, 22 received, 0% packet loss, time 21042ms
+rtt min/avg/max/mdev = 19.726/19.824/20.489/0.165 ms
