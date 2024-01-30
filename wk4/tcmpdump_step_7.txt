@@ -1,0 +1,4 @@
+root@lamp-droplet-korenevskiy:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+01:24:06.613305 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 267383303:267383355, ack 248850437, win 501, options [nop,nop,TS val 2349758912 ecr 1678734512], length 52
+01:24:06.614190 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 52:96, ack 1, win 501, options [nop,nop,TS val 2349758912 ecr 1678734512], length 44

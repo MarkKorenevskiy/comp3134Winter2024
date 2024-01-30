@@ -1,0 +1,33 @@
+root@lamp-droplet-korenevskiy:~# tcpdump -XX -c 2 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+01:22:31.115012 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 267373279:267373387, ack 248847921, win 501, options [nop,nop,TS val 2349663413 ecr 1678639008], length 108
+	0x0000:  fe00 0000 0101 468e 0c31 cfe5 0800 4510  ......F..1....E.
+	0x0010:  00a0 2a32 4000 4006 79cf 9fcb 1a7e 415c  ..*2@.@.y....~A\
+	0x0020:  9aa1 0016 e99f 0fef cadf 0ed5 1e31 8018  .............1..
+	0x0030:  01f5 96d9 0000 0101 080a 8c0d 04b5 640d  ..............d.
+	0x0040:  ffa0 762d bb29 a6e9 f552 42d4 e65e cee3  ..v-.)...RB..^..
+	0x0050:  4128 3e2b b920 3d4d 01e5 a596 0259 9d2a  A(>+..=M.....Y.*
+	0x0060:  c714 8be3 cea1 08b6 29ca 7422 4ebc 08e3  ........).t"N...
+	0x0070:  bad5 77f7 2c07 27d5 10a1 63e5 ce54 f24a  ..w.,.'...c..T.J
+	0x0080:  0d8a cf65 9ba9 ac6b 11c2 2578 f115 b0b6  ...e...k..%x....
+	0x0090:  aa5f 9beb 1d57 f69b 696f fe56 47e4 3885  ._...W..io.VG.8.
+	0x00a0:  39e1 6433 b9ca 60ed 0eef 4cb9 476a       9.d3..`...L.Gj
+01:22:31.115127 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 108:264, ack 1, win 501, options [nop,nop,TS val 2349663413 ecr 1678639008], length 156
+	0x0000:  fe00 0000 0101 468e 0c31 cfe5 0800 4510  ......F..1....E.
+	0x0010:  00d0 2a33 4000 4006 799e 9fcb 1a7e 415c  ..*3@.@.y....~A\
+	0x0020:  9aa1 0016 e99f 0fef cb4b 0ed5 1e31 8018  .........K...1..
+	0x0030:  01f5 9709 0000 0101 080a 8c0d 04b5 640d  ..............d.
+	0x0040:  ffa0 fed1 0950 d113 d9de 9aec d4f1 7a33  .....P........z3
+	0x0050:  f149 b886 857e 05e4 802a b247 d9ad cd1a  .I...~...*.G....
+	0x0060:  da8e 99e1 9801 fcde e3c6 ec79 87e4 3709  ...........y..7.
+	0x0070:  c646 d6fb 8fb7 f025 2988 a4eb 387d 96d7  .F.....%)...8}..
+	0x0080:  b504 09da 2cfc 6b61 b473 de6a 199f 2d13  ....,.ka.s.j..-.
+	0x0090:  0e97 4cc0 5c13 74d6 7fb0 a11f d673 cfa5  ..L.\.t......s..
+	0x00a0:  6b84 bec5 0f88 801c d946 73d8 fddd ab9c  k........Fs.....
+	0x00b0:  6fbf 23fe b72d fb65 45bd 8db0 5ecd c79e  o.#..-.eE...^...
+	0x00c0:  8fdc 0899 97d6 6971 9bfa 3ada 917e f723  ......iq..:..~.#
+	0x00d0:  94ba b80c a551 9112 2b69 c40f 938e       .....Q..+i....
+2 packets captured
+28 packets received by filter
+0 packets dropped by kernel

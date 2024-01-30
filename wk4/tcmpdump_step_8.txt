@@ -1,0 +1,11 @@
+root@lamp-droplet-korenevskiy:~# tcpdump -n -i eth0 -c 5
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+01:25:10.743330 IP 159.203.26.126.22 > 65.92.154.161.59807: Flags [P.], seq 267410803:267410911, ack 248852181, win 501, options [nop,nop,TS val 2349823042 ecr 1678798643], length 108
+01:25:10.743429 IP 159.203.26.126.22 > 65.92.154.161.59807: Flags [P.], seq 108:264, ack 1, win 501, options [nop,nop,TS val 2349823042 ecr 1678798643], length 156
+01:25:10.743535 IP 159.203.26.126.22 > 65.92.154.161.59807: Flags [P.], seq 264:368, ack 1, win 501, options [nop,nop,TS val 2349823042 ecr 1678798643], length 104
+01:25:10.750827 IP 65.92.154.161.59807 > 159.203.26.126.22: Flags [.], ack 368, win 2041, options [nop,nop,TS val 1678798658 ecr 2349823042], length 0
+01:25:10.844617 IP 159.203.26.126.22 > 65.92.154.161.59807: Flags [P.], seq 368:588, ack 1, win 501, options [nop,nop,TS val 2349823143 ecr 1678798658], length 220
+5 packets captured
+13 packets received by filter
+0 packets dropped by kernel

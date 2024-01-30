@@ -1,0 +1,31 @@
+root@lamp-droplet-korenevskiy:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+01:19:33.189489 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 267256043:267256095, ack 248843841, win 501, options [nop,nop,TS val 2349485488 ecr 1678461080], length 52
+01:19:33.192165 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 52:160, ack 1, win 501, options [nop,nop,TS val 2349485490 ecr 1678461080], length 108
+01:19:33.192241 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 160:316, ack 1, win 501, options [nop,nop,TS val 2349485490 ecr 1678461080], length 156
+01:19:33.192324 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 316:420, ack 1, win 501, options [nop,nop,TS val 2349485491 ecr 1678461080], length 104
+01:19:33.197722 IP bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807 > lamp-droplet-korenevskiy.ssh: Flags [.], ack 52, win 2047, options [nop,nop,TS val 1678461093 ecr 2349485488], length 0
+01:19:33.198847 IP bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807 > lamp-droplet-korenevskiy.ssh: Flags [.], ack 420, win 2042, options [nop,nop,TS val 1678461095 ecr 2349485491], length 0
+01:19:33.289458 IP lamp-droplet-korenevskiy.48698 > 67.207.67.3.domain: 28630+ [1au] PTR? 161.154.92.65.in-addr.arpa. (55)
+01:19:33.289586 IP lamp-droplet-korenevskiy.55782 > 67.207.67.3.domain: 15015+ [1au] PTR? 161.154.92.65.in-addr.arpa. (55)
+01:19:33.292980 IP 67.207.67.3.domain > lamp-droplet-korenevskiy.55782: 15015 1/0/1 PTR bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca. (123)
+01:19:33.293022 IP 67.207.67.3.domain > lamp-droplet-korenevskiy.48698: 28630 1/0/1 PTR bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca. (123)
+01:19:33.293552 IP lamp-droplet-korenevskiy.39065 > 67.207.67.3.domain: 18476+ [1au] PTR? 126.26.203.159.in-addr.arpa. (56)
+01:19:33.325269 IP 67.207.67.3.domain > lamp-droplet-korenevskiy.39065: 18476 NXDomain 0/1/1 (123)
+01:19:33.325450 IP lamp-droplet-korenevskiy.39065 > 67.207.67.3.domain: 18476+ PTR? 126.26.203.159.in-addr.arpa. (45)
+01:19:33.326384 IP 67.207.67.3.domain > lamp-droplet-korenevskiy.39065: 18476 NXDomain 0/1/0 (112)
+01:19:33.327398 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 420:688, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 268
+01:19:33.327534 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 688:976, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 288
+01:19:33.327586 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 976:1012, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 36
+01:19:33.327681 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 1012:1300, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 288
+01:19:33.327767 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 1300:1588, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 288
+01:19:33.327853 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 1588:2096, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 508
+01:19:33.327949 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 2096:2132, ack 1, win 501, options [nop,nop,TS val 2349485626 ecr 1678461095], length 36
+01:19:33.337590 IP bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807 > lamp-droplet-korenevskiy.ssh: Flags [.], ack 2132, win 2021, options [nop,nop,TS val 1678461233 ecr 2349485626], length 0
+^C
+01:19:33.357452 IP 80.82.77.144.39461 > lamp-droplet-korenevskiy.3151: Flags [S], seq 1264562292, win 65535, length 0
+
+23 packets captured
+102 packets received by filter
+13 packets dropped by kernel

@@ -1,0 +1,11 @@
+root@lamp-droplet-korenevskiy:~# tcpdump -i eth0 -c 5 tcp
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+01:25:49.086103 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 267413831:267413939, ack 248853153, win 501, options [nop,nop,TS val 2349861384 ecr 1678836985], length 108
+01:25:49.086208 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 108:264, ack 1, win 501, options [nop,nop,TS val 2349861384 ecr 1678836985], length 156
+01:25:49.086320 IP lamp-droplet-korenevskiy.ssh > bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807: Flags [P.], seq 264:368, ack 1, win 501, options [nop,nop,TS val 2349861385 ecr 1678836985], length 104
+01:25:49.089940 IP bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807 > lamp-droplet-korenevskiy.ssh: Flags [.], ack 0, win 2047, options [nop,nop,TS val 1678836998 ecr 2349861379], length 0
+01:25:49.094870 IP bras-base-toroon0240w-grc-50-65-92-154-161.dsl.bell.ca.59807 > lamp-droplet-korenevskiy.ssh: Flags [.], ack 368, win 2042, options [nop,nop,TS val 1678837003 ecr 2349861385], length 0
+5 packets captured
+9 packets received by filter
+0 packets dropped by kernel
