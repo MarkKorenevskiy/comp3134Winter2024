@@ -1,0 +1,1 @@
+Output of the PHP script shows us the file structure of the specific folder on our server. Using this function hackers may scan our server file system and see all files on the machine

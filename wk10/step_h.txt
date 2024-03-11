@@ -1,0 +1,1 @@
+By converting all HTML comments to PHP comments, the comments will not be visible in the source code of the webpage when viewed in a browser. This helps mitigate the problem of exposing sensitive information or comments meant for developers only to end-users.

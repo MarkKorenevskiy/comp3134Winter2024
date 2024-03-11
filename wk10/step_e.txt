@@ -1,0 +1,3 @@
+1. use basename() to extract the final component of the path provided by the user. This ensures that we only access files and folders within the 'html' directory and prevent access to files and folders before it.
+2. use file_exists() to check if the directory specified by the user exists before attempting to scan it. This prevents the script from trying to access non-existent directories.
+3. heck if the parameter contains a dot (.) to prevent users from passing a filename. This mitigates the possibility of accessing files directly.
